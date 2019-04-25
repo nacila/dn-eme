@@ -3,6 +3,7 @@ new Vue (){
     data:{
         product:100,
         name:"Samuel",
-        surName:"floea"
+        surName:"floea",
+        bool:false
     }
 }
